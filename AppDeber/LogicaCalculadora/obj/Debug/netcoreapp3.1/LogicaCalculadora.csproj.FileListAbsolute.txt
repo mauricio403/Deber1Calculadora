@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Deber1\Deber1Calculadora\AppDeber\LogicaCalculadora\bin\Debug\netcoreapp3.1\LogicaCalculadora.deps.json
+C:\Users\User\Desktop\Deber1\Deber1Calculadora\AppDeber\LogicaCalculadora\bin\Debug\netcoreapp3.1\LogicaCalculadora.dll
+C:\Users\User\Desktop\Deber1\Deber1Calculadora\AppDeber\LogicaCalculadora\bin\Debug\netcoreapp3.1\LogicaCalculadora.pdb
+C:\Users\User\Desktop\Deber1\Deber1Calculadora\AppDeber\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Deber1\Deber1Calculadora\AppDeber\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Deber1\Deber1Calculadora\AppDeber\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.AssemblyInfo.cs
+C:\Users\User\Desktop\Deber1\Deber1Calculadora\AppDeber\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Deber1\Deber1Calculadora\AppDeber\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.dll
+C:\Users\User\Desktop\Deber1\Deber1Calculadora\AppDeber\LogicaCalculadora\obj\Debug\netcoreapp3.1\LogicaCalculadora.pdb

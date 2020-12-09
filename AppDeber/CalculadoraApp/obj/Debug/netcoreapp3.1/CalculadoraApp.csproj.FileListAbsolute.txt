@@ -11,3 +11,6 @@ C:\Users\User\Desktop\Deber1\Deber1Calculadora\AppDeber\CalculadoraApp\obj\Debug
 C:\Users\User\Desktop\Deber1\Deber1Calculadora\AppDeber\CalculadoraApp\obj\Debug\netcoreapp3.1\CalculadoraApp.dll
 C:\Users\User\Desktop\Deber1\Deber1Calculadora\AppDeber\CalculadoraApp\obj\Debug\netcoreapp3.1\CalculadoraApp.pdb
 C:\Users\User\Desktop\Deber1\Deber1Calculadora\AppDeber\CalculadoraApp\obj\Debug\netcoreapp3.1\CalculadoraApp.genruntimeconfig.cache
+C:\Users\User\Desktop\Deber1\Deber1Calculadora\AppDeber\CalculadoraApp\bin\Debug\netcoreapp3.1\LogicaCalculadora.dll
+C:\Users\User\Desktop\Deber1\Deber1Calculadora\AppDeber\CalculadoraApp\bin\Debug\netcoreapp3.1\LogicaCalculadora.pdb
+C:\Users\User\Desktop\Deber1\Deber1Calculadora\AppDeber\CalculadoraApp\obj\Debug\netcoreapp3.1\CalculadoraApp.csproj.CopyComplete
